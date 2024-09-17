@@ -1,0 +1,18 @@
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.log
+.vscode/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# SQL Server
+*.mdf
+*.ldf
