@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jwKJlSCPhlqLofc54GABnc990m5dDHYiccoCIWZUKCMyErV47FZ8KZgGcw28ezunTDkP8io6nB+esy5jMegTLw==",
+  "dgSpecHash": "pzRb5TRaTCXo02FFYTRAMcxveTVHeSxtePq1Q5C4jllbs34zTBFAzyq6hc5tlyVyFXUoRTDR/SnXOlGLQ1/zTA==",
   "success": true,
   "projectFilePath": "D:\\repos\\Trainee Test .NET\\Trainee Test .NET\\Trainee Test .NET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nitro\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nitro\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\nitro\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\nitro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\nitro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\nitro\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

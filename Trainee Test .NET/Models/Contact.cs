@@ -5,6 +5,7 @@ namespace Trainee_Test_.NET.Models
 {
     public class Contact
     {
+        [Key]
         public int Id { get; set; }
 
         [Required]

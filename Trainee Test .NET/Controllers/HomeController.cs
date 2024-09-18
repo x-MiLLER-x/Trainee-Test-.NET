@@ -23,6 +23,11 @@ namespace Trainee_Test_.NET.Controllers
             return View();
         }
 
+        public IActionResult UploadCSV()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

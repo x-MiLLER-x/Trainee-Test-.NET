@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trainee Test .NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+019dad2543a57e1bd8dfe43e6ad4e8b522031b72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a583d27f06af0a7ef2c2b8ac80d9b9a867fe2c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trainee Test .NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trainee Test .NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

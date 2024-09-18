@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Trainee_Test_.NET.Models.Contact>
+
+<div class="container">
+    <h2>Contacts List</h2>
+    <a href="@Url.Action("UploadCSV")" class="btn btn-success">Upload CSV</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Date of Birth</th>
+                <th>Married</th>
+                <th>Phone</th>
+                <th>Salary</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var contact in Model)
+            {
+                <tr>
+                    <td>@contact.Name</td>
+                    <td>@contact.DateOfBirth.ToString("dd-MM-yyyy")</td>
+                    <td>@contact.Married</td>
+                    <td>@contact.Phone</td>
+                    <td>@contact.Salary</td>
+                    <td>
+                        <a href="@Url.Action("Edit", new { id = contact.Id })" class="btn btn-primary">Edit</a>
+                        <a href="@Url.Action("Delete", new { id = contact.Id })" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
